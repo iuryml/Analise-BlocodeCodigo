@@ -1,8 +1,8 @@
-## Campanhas de Marketing - Bloco de Código ##
+# Campanhas de Marketing - Bloco de Código #
 
 Construção de Dashboard analítico para a empresa Bloco de Código, a empresa que será desenvolvida para elaboração deste projeto.
 
-**Objetivo**
+## Objetivo ##
 Monitorar a sua campanha de marketing durante o ano que a campanha foi realizada.
 
 Em progresso... 🏗️
