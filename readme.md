@@ -1,4 +1,4 @@
-**Challenge BI - Semana 1**
+## Campanhas de Marketing - Bloco de Código ##
 
 Construção de Dashboard analítico para a empresa Bloco de Código, a empresa que será desenvolvida para elaboração deste projeto.
 
