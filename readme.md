@@ -9,7 +9,7 @@ Construção de Dashboard analítico para a empresa Bloco de Código, a empresa 
 
 ![image](https://github.com/iuryml/Analise-BlocodeCodigo/assets/55949523/9833adf3-d208-4e4d-ac76-b4b91bac49cb)
 
-Em todo o projeto resolvi formatar com as cores da empresa e a logo no fundo representando a sua marca.
+Em todo o projeto resolvi formatar com as cores da empresa e a logo no fundo representando a sua marca. Toda a etapa de prototipagem foi realizada com Figma
 
 ## Objetivo ##
 Monitorar a sua campanha de marketing durante o ano que a campanha foi realizada.
