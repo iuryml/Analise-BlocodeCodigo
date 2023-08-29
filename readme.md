@@ -4,7 +4,7 @@ Construção de Dashboard analítico para a empresa Bloco de Código, a empresa 
 
 | :placard: Alura | Challenge BI  |
 | -------------  | --- |
-| :label: Tecnologias | Excel, Power BI (tecnologias utilizadas)
+| :label: Tecnologias | Excel, Power BI, Figma (tecnologias utilizadas)
 | :derelict_house: Empresa         | Bloco de Código
 
 ![image](https://github.com/iuryml/Analise-BlocodeCodigo/assets/55949523/9833adf3-d208-4e4d-ac76-b4b91bac49cb)
